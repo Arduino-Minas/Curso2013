@@ -207,14 +207,15 @@ Sistemas desenvolvidos no Arduíno são construídos de forma que blocos de cód
 ## Robótica e VANTs;
 A robótica hoje é um ciência que está ao alcance de qualquer pessoas, existindo sites especializados que vendem kits preparados para uma montagem rápida, como também kits para montagens de Veículos Aéreos Não Tripulados (VANTS) como Quadricópteros, Helicópteros, Aviões, além de outros.
 
-Contato
+# Contato
 
-Celular: 
-(31) 84069811 (Claro),
-(31) 98387171 (Vivo),  
-(31) 87319450 (OI), 
-(31) 92521434 (TIM)
-E-Mail: consultoria@carlosdelfino.eti.br
-Site: http://www.carlosdelfino.eti.br
-Linked-In: http://linkedin.com/in/carlosdelfino 
+* Celular: 
+   (31) 84069811 (Claro),
+   (31) 98387171 (Vivo),  
+   (31) 87319450 (OI), 
+   (31) 92521434 (TIM)
+
+* E-Mail: consultoria@carlosdelfino.eti.br
+* Site: http://www.carlosdelfino.eti.br
+* Linked-In: http://linkedin.com/in/carlosdelfino 
 
