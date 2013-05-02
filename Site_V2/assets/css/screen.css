@@ -1,0 +1,187 @@
+@font-face {
+    font-family: "MyriadPro-Regular";
+    src: url(assets/fonts/MyriadPro-Regular.ttf ) format("truetype");
+} 
+
+body {
+	display: block; 
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: 100px;
+	background-color: #000000;
+	font-family: "MyriadPro-Regular";
+}
+
+#box {
+	background-color: #fff; 
+	width: 995px
+}
+
+header {
+	height: 96px;
+	background-color: #ffffff;
+	width: 995px; 
+	display: block; 
+}
+
+header #title {
+	float: left;
+	font-family: "MyriadPro-Regular";
+	height: 22px;
+	font-size: 24px;
+	color: #2468b3;
+	background-color: #ffffff;
+}
+header #title #title_1 {
+	font-size: 48px;
+	color: #00af51;
+	background-color: #ffffff;
+}
+header #title #title_2 {
+	font-size: 24px;
+	background-color: #ffffff;
+}
+header #title #title_3 {
+	font-size: 48px;
+	background-color: #ffffff;
+}
+
+
+nav#menu_top {
+	background-color: #ffffff;
+	float: right;
+}
+
+header #menu_top ul li {
+	background-color: #ffffff;
+	list-style-type: square;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+
+
+
+
+
+
+#logo {
+	background-image: url(../../images/logo.jpg);
+	background-color: #ffffff;
+	background-repeat:no-repeat;
+	height: 249px;
+    width: 342px;
+}
+#menu ul {
+	display: inline;
+	list-style-type: square;
+	background-color: #ffffff;
+}
+
+#content_wraper {
+	background-color: #fff;
+	float: right; 
+	display:inline-table
+}
+
+#content_wraper #content { 
+	background-color: #FFF;
+	border-left-width: 8px;
+	border-left-style: solid;
+	border-left-color: #000; 
+	width: 600px;
+}
+
+#content_wraper #content_title {
+	background-color: #fff;
+	float: right;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #cecfcd;
+	clip: rect(auto,auto,3px,auto);
+	font-family: "MyriadPro-Regular";
+	font-size: 30px;
+	color: #1C61B6;
+	position:relative;
+	z-index: 6;
+	width:auto;
+}
+
+#content_wraper #content_image {
+	background-color: #fff;
+	float: left;
+	background-image: url(../../images/car_line_follow.jpg);
+	background-repeat: no-repeat;
+	height: 142px;
+	width: 158px; 
+	margin-left: 8px;
+	z-index:3;
+}
+
+#partner {
+	display: block;
+	background-color: #FFF;
+	float: left;
+	width: 342px;
+} 
+
+#partner #partner_image { 
+	background-image: url(../../images/shields.jpg);
+	background-repeat: no-repeat;
+	width: 79px;
+	height: 88px;
+	margin-left: 8px;
+}
+
+#partner #partner_title {
+	color: #1C61B6;
+	background-color: #fff;
+	font-family: "MyriadPro-Regular";
+	text-align: right;
+	float: right;
+	height: 26px;
+	width: 300px; 
+	position: relative;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #cecfcd;
+}
+#partner #partner_content {
+	background-color: #fff;
+	margin-left: 8px;
+}
+
+
+footer {
+	display: inline-block;
+	background-color: #000000;
+    font-size: 16px;
+	color: #FFF;
+	height: 57px;
+	width: 995px;
+}
+
+footer #menu_footer{
+	background-color: #000;
+}
+footer #menu_footer ul li {
+	color: #FFF;
+	display: inline-block;
+	list-style-type: square;
+	margin-right: 10px;
+}
+
+footer #copyright {
+	background-color: #000;
+	display:block
+}
+#footer_space, 
+#header_space { 
+	background-color: #000;
+	height: 25px;
+	width: 995px;
+} 
+#center_wraper {
+	display: inline-block;
+}
